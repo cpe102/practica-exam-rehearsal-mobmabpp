@@ -1,6 +1,23 @@
 #include <iostream>
+#include<string>
+using namespace std;
 
-//Write compress() here.
+int conpress (){
+    string a = x;
+    int L = x.size();
+
+    int i=0;
+    while(i<L){
+        y[i]=L;
+        i++;
+    }
+
+    return y;
+    
+
+
+
+
 
 int main()
 {
@@ -15,5 +32,9 @@ int main()
     string i = conpress("ABCD");
     
     cout << a << "\n" << b << "\n" << c << "\n" << d << "\n" << e << "\n" << f << "\n" << g << "\n" << h << "\n" << i << "\n";
+
+}
+
+return 0 ;
 
 }
