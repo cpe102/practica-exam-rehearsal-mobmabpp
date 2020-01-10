@@ -13,13 +13,12 @@ int main(){
 
    if(gpa>=3.50)
    {
-       cout<<name<<"  InW Jrim Jrim!!!"<<endl;
+       cout<<name<<" InW Jrim Jrim!!!"<<endl;
    }
    else
    {
-       cout<<"Try harder, "<<name<<endl;
+       cout<<"Try harder, "<<name<<"!!!"<<endl;
    }   
     
     return 0;
 }
-
