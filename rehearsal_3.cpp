@@ -1,6 +1,10 @@
 #include <iostream>
 
-//Write sumSqrt() here.
+int sumSqrt(int N)
+{
+    int N;
+   double N =1+((sqrt((N*(N+1))%2))((sqrt((N*(N+1))%2))+1));
+}
 
 
 int main()
